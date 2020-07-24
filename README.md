@@ -6,7 +6,9 @@ For all these months of developing standalones, I faced one issue in every stand
 
 So, now, I have developed something. I have written a Script and now adjusting paragraphs in different views will be a piece of cake for everyone. 
 
-For development purpose, I took the html from beta.montereystagecoachlodge.com/overview . To try out my script, just download the code from https://github.com/yourdevujjawal/paragraph-hide-show by clicking green color Code button and then Download ZIP btn. 
+For development purpose, I took the html from beta.montereystagecoachlodge.com/overview. 
+STEPS:
+To try out my script, just download the code from https://github.com/yourdevujjawal/paragraph-hide-show by clicking green color Code button and then Download ZIP btn. 
 Then extract the folder and open the index.html in your editor/IDE and also in browser. 
 Now, go to very bottom of the HTML. There you will find four values/variables. Here you can set the number of paragraphs you want to show in the respective view. And see the result. 
 
